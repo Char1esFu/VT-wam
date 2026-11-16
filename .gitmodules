@@ -1,0 +1,9 @@
+[submodule "cosmos3-wam"]
+	path = cosmos3-wam
+	url = https://github.com/Char1esFu/cosmos3-wam.git
+[submodule "fast-wam"]
+	path = fast-wam
+	url = https://github.com/Char1esFu/fast-wam.git
+[submodule "act-wam"]
+	path = act-wam
+	url = https://github.com/Char1esFu/act-wam.git
