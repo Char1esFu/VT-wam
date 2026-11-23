@@ -7,3 +7,6 @@
 [submodule "act-wam"]
 	path = act-wam
 	url = https://github.com/Char1esFu/act-wam.git
+[submodule "smolvla-wam"]
+	path = smolvla-wam
+	url = https://github.com/Char1esFu/smolvla-wam.git
